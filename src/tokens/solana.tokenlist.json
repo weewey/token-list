@@ -34462,6 +34462,21 @@
         "community-token",
         "meme-token"
       ]
+    },
+    {
+      "chainId": 103,
+      "address": "CChTcums6omR9BpAZLZVuAfomYvwirLspgkp35nN3QH1",
+      "symbol": "$WDR",
+      "name": "Wonderland",
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/CChTcums6omR9BpAZLZVuAfomYvwirLspgkp35nN3QH1/logo.svg",
+      "decimals": 9,
+      "tags": [
+        "Metaverse",
+        "Game-Fi"
+      ],
+      "extensions": {
+        "website": "https://www.hellowonderland.net/"
+      }
     }
   ],
   "version": {
